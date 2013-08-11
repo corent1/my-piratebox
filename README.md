@@ -7,27 +7,27 @@ Screenshots
 Homepage
 --------
 
-![ScreenShot](https://raw.github.com/tontonDuPirox/my-piratebox/master/screens/screen-home.png)
+![ScreenShot](https://raw.github.com/corent1/my-piratebox/master/screens/screen-home.png)
 
 Fichiers
 --------
 
-![ScreenShot](https://raw.github.com/tontonDuPirox/my-piratebox/master/screens/screen-shared.png)
+![ScreenShot](https://raw.github.com/corent1/my-piratebox/master/screens/screen-shared.png)
 
 Forum
 -----
 
-![ScreenShot](https://raw.github.com/tontonDuPirox/my-piratebox/master/screens/screen-forum.png)
+![ScreenShot](https://raw.github.com/corent1/my-piratebox/master/screens/screen-forum.png)
 
 Chat
 ----
 
-![ScreenShot](https://raw.github.com/tontonDuPirox/my-piratebox/master/screens/screen-chat.png)
+![ScreenShot](https://raw.github.com/corent1/my-piratebox/master/screens/screen-chat.png)
 
 A propos
 --------
 
-![ScreenShot](https://raw.github.com/tontonDuPirox/my-piratebox/master/screens/screen-about.png)
+![ScreenShot](https://raw.github.com/corent1/my-piratebox/master/screens/screen-about.png)
 
 Installation
 ============
